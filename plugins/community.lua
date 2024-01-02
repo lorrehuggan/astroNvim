@@ -11,6 +11,8 @@ return {
   { import = "astrocommunity.colorscheme.github-nvim-theme" },
   { import = "astrocommunity.pack.typescript" },
   -- { import = "astrocommunity.pack.lua" },
+  { import = "astrocommunity.bars-and-lines.feline-nvim" },
+  { import = "astrocommunity.pack.go" },
   { import = "astrocommunity.pack.json" },
   { import = "astrocommunity.pack.markdown" },
   { import = "astrocommunity.pack.astro" },
