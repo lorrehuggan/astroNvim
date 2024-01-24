@@ -6,6 +6,7 @@ return {
 
   { import = "astrocommunity.completion.copilot-lua-cmp" },
   { import = "astrocommunity.colorscheme.kanagawa-nvim" },
+  { import = "astrocommunity.colorscheme.catppuccin" },
   { import = "astrocommunity.colorscheme.poimandres-nvim" },
   { import = "astrocommunity.colorscheme.oxocarbon-nvim" },
   { import = "astrocommunity.colorscheme.github-nvim-theme" },
@@ -13,6 +14,7 @@ return {
   -- { import = "astrocommunity.pack.lua" },
   { import = "astrocommunity.bars-and-lines.feline-nvim" },
   { import = "astrocommunity.pack.go" },
+  { import = "astrocommunity.pack.zig" },
   { import = "astrocommunity.pack.json" },
   { import = "astrocommunity.pack.markdown" },
   { import = "astrocommunity.pack.astro" },
