@@ -10,7 +10,7 @@ return {
   --     require("lsp_signature").setup()
   --   end,
   -- },
-{
+  {
     "nvim-treesitter/nvim-treesitter",
     opts = function(_, opts)
       -- Ensure that opts.ensure_installed exists and is a table or string "all".
@@ -27,7 +27,7 @@ return {
     "jay-babu/mason-nvim-dap.nvim",
     opts = function(_, opts) opts.ensure_installed = utils.list_insert_unique(opts.ensure_installed, "js") end,
   },
-{
+  {
     "kylechui/nvim-surround",
     version = "*", -- Use for stability; omit to use `main` branch for the latest features
     event = "VeryLazy",
