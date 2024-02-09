@@ -10,6 +10,7 @@ return {
   { import = "astrocommunity.colorscheme.poimandres-nvim" },
   { import = "astrocommunity.colorscheme.oxocarbon-nvim" },
   { import = "astrocommunity.colorscheme.github-nvim-theme" },
+  { import = "astrocommunity.colorscheme.mellow-nvim" },
   { import = "astrocommunity.pack.typescript" },
   -- { import = "astrocommunity.pack.lua" },
   { import = "astrocommunity.bars-and-lines.feline-nvim" },
